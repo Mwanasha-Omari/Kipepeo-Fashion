@@ -1,0 +1,7 @@
+.home-content{
+flex-direction: row;
+
+}
+.landing-page{
+    display: flex;   
+}
